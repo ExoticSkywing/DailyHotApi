@@ -6,13 +6,13 @@
     "API",
     "RSS"
   ],
-  "homepage": "https://github.com/imsyy/DailyHotApi#readme",
+  "homepage": "https://navi.1yo.cc",
   "bugs": {
-    "url": "https://github.com/imsyy/DailyHotApi/issues"
+    "url": "https://navi.1yo.cc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imsyy/DailyHotApi.git"
+    "url": "git+https://github.com/ExoticSkywing/DailyHotApi.git"
   },
   "license": "MIT",
   "author": "imsyy",

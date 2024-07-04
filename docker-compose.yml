@@ -5,6 +5,8 @@ services:
     build:
       context: .
       target: runner
+    image: dailyhot-api
+    container_name: dailyhota_api
     ports:
       - "6688:6688"
     volumes:
